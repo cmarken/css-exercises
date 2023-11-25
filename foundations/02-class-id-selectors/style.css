@@ -1,0 +1,18 @@
+.my-class {
+    background-color: rgb(196, 80, 100);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#nr2 {
+    color: blue;
+    font-size: 24px;
+}
+
+.adjust-fontsize {
+    font-size: 24px;
+}
+
+#nr4 {
+    background-color: rgb(169, 221, 169);
+    font-weight: bold;
+}
